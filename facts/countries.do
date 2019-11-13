@@ -75,3 +75,16 @@ Famous for:
   * Ranked 1st globally for per-capita income
   * Birthplace of Steve Jobs's parents
   * Healthcare expenditure
+
+#######################################
+## Canada
+
+Capital: Ottawa
+Continent: America
+Language: Franglais
+Population Size: 300
+Famous for:
+  * Poutine
+  * Hockey
+  * Being nice
+  * Winter
